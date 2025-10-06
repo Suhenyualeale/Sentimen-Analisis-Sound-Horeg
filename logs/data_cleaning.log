@@ -1,0 +1,19 @@
+2025-10-04 09:58:51,938 - INFO - Memulai cleaning dataset: D:\sound-horeg-youtube\src\..\data\master_csv\sound_horeg_dataset.csv
+2025-10-04 09:58:51,968 - WARNING - Kolom 'comments' tidak ditemukan.
+2025-10-04 09:58:51,968 - INFO - Deteksi bahasa dimulai (ini bisa memakan waktu beberapa menit)...
+2025-10-04 09:59:00,384 - INFO - Total data sebelum filter: 900, setelah filter: 417
+2025-10-04 09:59:00,389 - INFO - Dataset bersih & terfilter disimpan di: D:\sound-horeg-youtube\src\..\data\master_csv\sound_horeg_cleaned.csv
+2025-10-04 10:57:00,840 - INFO - Memulai cleaning dataset: D:\sound-horeg-youtube\src\..\data\master_csv\sound_horeg_dataset.csv
+2025-10-04 10:57:00,920 - WARNING - Kolom 'comments' tidak ditemukan.
+2025-10-04 10:57:00,920 - INFO - Deteksi bahasa dimulai (ini bisa memakan waktu beberapa menit)...
+2025-10-04 10:57:19,542 - INFO - Total data sebelum filter: 2580, setelah filter: 1529
+2025-10-04 10:57:19,621 - INFO - Dataset bersih & terfilter disimpan di: D:\sound-horeg-youtube\src\..\data\master_csv\sound_horeg_cleaned.csv
+2025-10-04 11:44:49,134 - INFO - Memulai cleaning dataset: D:\sound-horeg-youtube\src\..\data\master_csv\sound_horeg_comments.csv
+2025-10-04 11:44:49,190 - INFO - Deteksi bahasa dimulai...
+2025-10-04 11:44:50,411 - INFO - Dataset bersih disimpan di: D:\sound-horeg-youtube\src\..\data\master_csv\sound_horeg_cleaned.csv
+2025-10-04 14:16:44,519 - INFO - Memulai cleaning dataset: D:\sound-horeg-youtube\src\..\data\master_csv\sound_horeg_comments.csv
+2025-10-04 14:16:44,599 - INFO - Deteksi bahasa dimulai...
+2025-10-04 14:16:46,767 - INFO - Dataset bersih disimpan di: D:\sound-horeg-youtube\src\..\data\master_csv\sound_horeg_cleaned.csv
+2025-10-04 16:02:27,619 - INFO - Memulai cleaning dataset: D:\sound-horeg-youtube\src\..\data\master_csv\sound_horeg_comments.csv
+2025-10-04 16:02:27,681 - INFO - Deteksi bahasa dimulai...
+2025-10-04 16:02:29,830 - INFO - Dataset bersih disimpan di: D:\sound-horeg-youtube\src\..\data\master_csv\sound_horeg_cleaned.csv

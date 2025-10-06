@@ -1,0 +1,16 @@
+{
+    "search_query": [
+      "Fakta MUI Sound Horeg Haram",
+      "sound Horeg",
+      "Sound Horeg Haram",
+      "Pro Kontra Sound Horeg",
+      "Thomas Alva Edi Sound Horeg",
+      "Event Sound Horeg"
+    ],
+    "video_limit": 50,
+    "comments_per_video": 200,
+    "delay_seconds": 1,
+    "delay_between_requests": 2,
+    "log_level": "INFO"
+  }
+  
